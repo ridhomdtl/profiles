@@ -1,6 +1,9 @@
 # Profiles
 My Profiles and Biodata (for learning purpose)
 --
+
+Greetings everyone, my name is Ridho Mardhatillah, this is my first repository which I mainly use for learning Git and many features on GitHub. You can follow my social media accounts on [Facebook](https://www.facebook.com/profile.php?id=100009114454522), [Instagram](https://www.instagram.com/ridho_mardhatillah/), or professionally you can connect to my [Linkedin Account](https://www.linkedin.com/in/ridhomdh/).
+
 My Biodata:
 - Name          : Ridho Mardhatillah
 - Date of Birth : 9 February 2002
